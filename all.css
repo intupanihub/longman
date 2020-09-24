@@ -5,7 +5,7 @@ a, body{
 }
 a:hover{
     transition-duration: 0.7s;
-    color: black;
+    color: aqua;
     text-decoration: underline;
 }
 nav{
